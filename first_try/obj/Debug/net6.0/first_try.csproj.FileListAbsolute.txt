@@ -1,0 +1,15 @@
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/bin/Debug/net6.0/first_try
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/bin/Debug/net6.0/first_try.deps.json
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/bin/Debug/net6.0/first_try.runtimeconfig.json
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/bin/Debug/net6.0/first_try.dll
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/bin/Debug/net6.0/ref/first_try.dll
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/bin/Debug/net6.0/first_try.pdb
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/obj/Debug/net6.0/first_try.csproj.AssemblyReference.cache
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/obj/Debug/net6.0/first_try.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/obj/Debug/net6.0/first_try.AssemblyInfoInputs.cache
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/obj/Debug/net6.0/first_try.AssemblyInfo.cs
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/obj/Debug/net6.0/first_try.csproj.CoreCompileInputs.cache
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/obj/Debug/net6.0/first_try.dll
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/obj/Debug/net6.0/ref/first_try.dll
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/obj/Debug/net6.0/first_try.pdb
+/Users/elhussein/Documents/Development/2024/C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024/first_try/obj/Debug/net6.0/first_try.genruntimeconfig.cache

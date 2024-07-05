@@ -1,0 +1,11 @@
+first thing 
+dotnet new sln -o MyApiApp
+2#
+otnet new console -o MyApiApp.ConsoleApp
+dotnet new webapi -o MyApiApp.WebApi 
+dotnet new classlib -o MyApiApp.Repository 
+dotnet new xunit -o MyApiApp.Tests
+
+
+
+dotnet sln MyApiApp.sln add .\MyApiApp.ConsoleApp\MyApiApp.ConsoleApp.csproj .\MyApiApp.WebApi\MyApiApp.WebApi.csproj .\MyApiApp.Repository\MyApiApp.Repository.csproj 

@@ -18,12 +18,27 @@ bool Test =true;
 
 
 string[] mylist =new string[2];
+List<string> test= new List<string>() {"Milk","orage"};
 
 mylist[0]="hello";
-
+test.Add("egg");
 
 // Console.WriteLine(Test.ToString());
-Console.WriteLine(mylist[0]);
+Console.WriteLine(test[2]);
+
+// IEnumerable not indexing 
+IEnumerable<string> myGroceryIEnumerable = myGroceryList;
+
+// Console.WriteLine(myGroceryIEnumerable.First());
+
+// Multi array 
+string[,] myTwoDimensionalArray = new string[,] {
+    { "Apples", "Eggs" },
+    { "Milk", "Cheese" }
+};
+
+Console.WriteLine(myTwoDimensionalArray[1, 1]);
+
 
 
 static int add(int x){

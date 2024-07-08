@@ -56,7 +56,24 @@
 int myint=5;
 int myseconedint=10;
 
-
-
 myint ++ ;
 Console.WriteLine(myint);
+
+
+myint +=7;
+Console.WriteLine(myint);
+
+myint -=6;
+Console.WriteLine(myint);
+Console.WriteLine(myint= myseconedint);
+
+
+Console.WriteLine($"ada,{myint-myseconedint}");
+
+
+
+
+
+
+
+Console.WriteLine(Math.Pow(4,2));

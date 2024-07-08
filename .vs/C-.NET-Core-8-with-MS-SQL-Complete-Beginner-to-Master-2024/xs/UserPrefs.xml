@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6397C824-4271-4D3C-A536-DCBC2D233E2F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="first_try/Program.cs">
+    <Files>
+      <File FileName="first_try/Program.cs" Line="80" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C-.NET-Core-8-with-MS-SQL-Complete-Beginner-to-Master-2024">
+            <Node name="first_try" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.first__try PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

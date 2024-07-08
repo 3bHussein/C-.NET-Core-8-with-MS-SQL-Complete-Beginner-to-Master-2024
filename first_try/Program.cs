@@ -76,4 +76,9 @@ Console.WriteLine($"ada,{myint-myseconedint}");
 
 
 
-Console.WriteLine(Math.Pow(4,2));
+
+// Console.WriteLine(Math.Pow(4,2));
+
+Console.WriteLine(Math.Pow(5,4));
+
+Console.WriteLine(Math.Sqrt(54));

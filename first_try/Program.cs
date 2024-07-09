@@ -87,3 +87,11 @@ Console.WriteLine(Math.Equals(myint, myseconedint));
 Console.WriteLine(Math.PI);
 
 Console.WriteLine($"this in one {myint}");
+
+//String[] myStringArr = string[]
+
+string mystring = "test";
+mystring += ". sencoend";
+String[] MyStringArr = mystring.Split(". ");
+Console.WriteLine(MyStringArr[0]);
+Console.WriteLine(MyStringArr[1]);

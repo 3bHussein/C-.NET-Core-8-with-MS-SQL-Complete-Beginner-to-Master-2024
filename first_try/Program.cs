@@ -95,3 +95,7 @@ mystring += ". sencoend";
 String[] MyStringArr = mystring.Split(". ");
 Console.WriteLine(MyStringArr[0]);
 Console.WriteLine(MyStringArr[1]);
+
+Console.WriteLine(5 > 10 || 6 > 7);
+
+Console.WriteLine(5 > 10 && 16 > 7);

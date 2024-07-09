@@ -81,4 +81,9 @@ Console.WriteLine($"ada,{myint-myseconedint}");
 
 Console.WriteLine(Math.Pow(5,4));
 
-Console.WriteLine(Math.Sqrt(54));
+Console.WriteLine(Math.Sqrt(5));
+
+Console.WriteLine(Math.Equals(myint, myseconedint));
+Console.WriteLine(Math.PI);
+
+Console.WriteLine($"this in one {myint}");
